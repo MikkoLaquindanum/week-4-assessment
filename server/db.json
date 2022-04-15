@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "fruit": "Gomu Gomu no Mi",
+        "rating": 5,
+        "imageURL": "https://static.wikia.nocookie.net/onepiece/images/1/12/Gomu_Gomu_no_Mi_Infobox.png/revision/latest?cb=20190419140206"
+    },
+    {
+        "id": "2",
+        "fruit": "Mera Mera no Mi",
+        "rating": "5",
+        "imageURL": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Mera_Mera_no_Mi_Infobox.png/revision/latest/top-crop/width/360/height/360?cb=20151123200729" 
+    },
+    {
+        "id": "3",
+        "fruit": "Yami Yami no Mi",
+        "rating": "4",
+        "imageURL": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Yami_Yami_no_Mi_Infobox.png/revision/latest?cb=20160123174331" 
+    },
+    {
+        "id": "4",
+        "fruit": "Ope Ope no Mi",
+        "rating": "5",
+        "imageURL": "https://static.wikia.nocookie.net/onepiece/images/0/0e/Ope_Ope_no_Mi_Infobox.png/revision/latest?cb=20210409181034" 
+    },
+    {
+        "id": "5",
+        "fruit": "Tori Tori no Mi Model: Phoenix",
+        "rating": "5",
+        "imageURL": "https://static.wikia.nocookie.net/grand-piece-online/images/3/3e/819439851367694366.v3.png/revision/latest/top-crop/width/360/height/360?cb=20211027092514" 
+    },
+    {
+        "id": "6",
+        "fruit": "Pika Pika no Mi",
+        "rating": "5",
+        "imageURL": "http://pm1.narvii.com/6853/76de533feebad5b78e2806a00dbc55080c637d5dv2_00.jpg" 
+    },
+    {
+        "id": "7",
+        "fruit": "Goro Goro no Mi",
+        "rating": "4",
+        "imageURL": "https://static.wikia.nocookie.net/oproleplaying/images/d/d2/Goro_Goro_no_Mi_Infobox.png/revision/latest?cb=20200412170132" 
+    }
+]
