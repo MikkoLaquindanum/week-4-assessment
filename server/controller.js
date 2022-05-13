@@ -34,7 +34,7 @@ module.exports = {
             fruits[index].rating += 1
             res.status(200).send(fruits)
         } else {
-            res.status(200).send('... No ...')
+            res.status(400).send('... No ...')
         }
     }
 }
